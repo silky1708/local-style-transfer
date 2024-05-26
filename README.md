@@ -32,6 +32,23 @@ conda activate least
 Download [SAM's `vit-h` checkpoint](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints) and place it here: `segment-anything/checkpoints/sam_vit_h_4b8939.pth` exactly following the name convention.
 
 
+A working notebook is provided here: `local_style_transfer.ipynb`. To run the notebook using the environment `least`:  
+```
+conda install -c anaconda ipykernel  
+python -m ipykernel install --user --name=least
+```
+
+
+Given a path to an image and a style description, our method LEAST attempts to constrain the stylization process to the target region in the image, while maintaining the content and structure of the rest of the image.
+
+
+
+## Dataset
+
+
+We collected a set of 25 natural images to perform evaluation of our work against the baselines. The dataset is provided in the `dataset` directory. Please note that the copyrights exist with the owners of these images.
+
+
 
 
 ## Acknowledgments
