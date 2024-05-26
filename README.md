@@ -3,15 +3,14 @@
 
 *Accepted to AI for Content Creation (AI4CC) Workshop at CVPR 2024*
 
-
-*Silky Singh, Surgan Jandial, Simra Shahid, Abhinav Java*
+*Silky Singh, Surgan Jandial, Simra Shahid, Abhinav Java.*  
 Media and Data Science Research (MDSR), Adobe
 
 
 Project Page: [arXiv]()
 
 
-![local style transfer teaser](assets/main_qual_results.pdf)
+![local style transfer teaser](assets/main_qual_results.png)
 
 
 
