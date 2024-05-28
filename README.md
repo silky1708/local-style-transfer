@@ -7,7 +7,7 @@
 Media and Data Science Research (MDSR), Adobe
 
 
-Project Page: [arXiv]()
+Project Page: [arXiv](https://arxiv.org/abs/2405.16330)
 
 
 ![local style transfer teaser](assets/main_qual_results.png)
@@ -61,10 +61,15 @@ This repository is heavily based on [CLIPstyler](https://github.com/cyclomon/CLI
 ## Citation
 
 
-If you find our work useful, please consider citing:
-
-
-
-
-
+If you find our work useful, please consider citing:   
+```
+@misc{singh2024least,
+      title={LEAST: "Local" text-conditioned image style transfer}, 
+      author={Silky Singh and Surgan Jandial and Simra Shahid and Abhinav Java},
+      year={2024},
+      eprint={2405.16330},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
