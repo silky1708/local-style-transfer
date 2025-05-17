@@ -54,7 +54,7 @@ We collected a set of 25 natural images to perform evaluation of our work agains
 ## Acknowledgments
 
 
-This repository is heavily based on [CLIPstyler](https://github.com/cyclomon/CLIPstyler), [LLaVA](https://github.com/haotian-liu/LLaVA) and [Segment Anything](https://github.com/facebookresearch/segment-anything). We thank all the respective authors for open-sourcing their amazing work!
+This repository is built upon [CLIPstyler](https://github.com/cyclomon/CLIPstyler), [LLaVA](https://github.com/haotian-liu/LLaVA) and [Segment Anything](https://github.com/facebookresearch/segment-anything). We thank all the respective authors for open-sourcing their amazing work!
 
 
 
